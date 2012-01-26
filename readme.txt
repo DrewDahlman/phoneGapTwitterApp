@@ -3,6 +3,10 @@ This project serves as an example of how to create a twitter application or func
 
 This app will remember your Twitter authentication and allow you to tweet from your app.
 
+I've created a blog post tutorial that goes into full detail.
+http://www.drewdahlman.com/meusLabs/?p=40
+
+
 SET UP:
 1. Go to https://dev.twitter.com/apps and create a new app.
 2. Be sure to put in a callback URL ( doesn't have to be live )
@@ -33,7 +37,5 @@ VALUE: ChildBrowserCommand
 8. save!
 
 ready to go!
-
-I am working on a full blog post to support this in better detail!
 
 enjoy!
